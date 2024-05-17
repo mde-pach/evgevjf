@@ -1,0 +1,131 @@
+.as-ping-pong {
+  transform: perspective(1400px)
+    matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);
+  transform-style: preserve-3d;
+  background-image: none;
+  width: 400px;
+  height: 400px;
+  position: relative;
+}
+
+.gwd-rect-p9af {
+  position: absolute;
+  width: 11.765px;
+  height: 91.176px;
+  left: 0px;
+  top: 152.941px;
+  box-sizing: border-box;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(0, 0, 0);
+  background-color: rgb(255, 255, 255);
+}
+
+.gwd-svg-i5ni {
+  left: 388px;
+  top: 146px;
+  transform: translate3d(0px, 0px, 0px);
+}
+
+.gwd-rect-1q0w {
+  position: relative;
+  box-sizing: border-box;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(0, 0, 0);
+  background-color: rgb(255, 255, 255);
+  width: 12px;
+  height: 12px;
+  top: 204px;
+  left: 10px;
+  transform-style: preserve-3d;
+  transform: translate3d(0px, 0px, 0px);
+}
+
+@keyframes gwd-gen-1ti0gwdanimation_gwd-keyframes {
+  0% {
+    transform: translate3d(0px, 0px, 0px);
+    animation-timing-function: linear;
+  }
+  25% {
+    transform: translate3d(370px, 90px, 0px);
+    animation-timing-function: linear;
+  }
+  50% {
+    transform: translate3d(0px, 170px, 0px);
+    animation-timing-function: linear;
+  }
+  75% {
+    transform: translate3d(370px, -8px, 0px);
+    animation-timing-function: linear;
+  }
+  100% {
+    transform: translate3d(0px, 2px, 0px);
+    animation-timing-function: linear;
+  }
+}
+
+.as-ping-pong .gwd-gen-1ti0gwdanimation {
+  animation: gwd-gen-1ti0gwdanimation_gwd-keyframes 6s linear 0s infinite normal
+    forwards running;
+}
+
+@keyframes gwd-gen-dk61gwdanimation_gwd-keyframes {
+  0% {
+    transform: translate3d(0px, 0px, 0px);
+    animation-timing-function: linear;
+  }
+  25% {
+    transform: translate3d(0px, 110px, 0px);
+    animation-timing-function: linear;
+  }
+  50% {
+    transform: translate3d(0px, 70px, 0px);
+    animation-timing-function: linear;
+  }
+  75% {
+    transform: translate3d(0px, -20px, 0px);
+    animation-timing-function: linear;
+  }
+  100% {
+    transform: translate3d(0px, 0px, 0px);
+    animation-timing-function: linear;
+  }
+}
+
+.as-ping-pong .gwd-gen-dk61gwdanimation {
+  animation: gwd-gen-dk61gwdanimation_gwd-keyframes 6s linear 0s infinite normal
+    forwards running;
+}
+
+.gwd-rect-1prq {
+  transform: translate3d(0px, 0px, 0px);
+}
+
+@keyframes gwd-gen-mdyqgwdanimation_gwd-keyframes {
+  0% {
+    transform: translate3d(0px, 0px, 0px);
+    animation-timing-function: linear;
+  }
+  25% {
+    transform: translate3d(0px, 0px, 0px);
+    animation-timing-function: linear;
+  }
+  50% {
+    transform: translate3d(0px, 210px, 0px);
+    animation-timing-function: linear;
+  }
+  75% {
+    transform: translate3d(0px, 92px, 0px);
+    animation-timing-function: linear;
+  }
+  100% {
+    transform: translate3d(0px, 0px, 0px);
+    animation-timing-function: linear;
+  }
+}
+
+.as-ping-pong .gwd-gen-mdyqgwdanimation {
+  animation: gwd-gen-mdyqgwdanimation_gwd-keyframes 6s linear 0s infinite normal
+    forwards running;
+}
