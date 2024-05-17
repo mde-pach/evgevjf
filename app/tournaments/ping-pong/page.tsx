@@ -1,8 +1,8 @@
 import React from "react";
 import Tournament from "@/components/tournament/tournament";
 
-import { Player, availablePlayers } from "@/data/players";
-import "./pong.css";
+import { type Player, availablePlayers } from "@/data/players";
+import "@/public/styles/pong.css";
 
 const players = [
   availablePlayers.maxime,

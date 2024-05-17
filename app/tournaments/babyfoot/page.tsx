@@ -1,8 +1,8 @@
 import React from "react";
 import Tournament from "@/components/tournament/tournament";
 
-import { Player, availablePlayers } from "@/data/players";
-import "./babyfoot.css";
+import { type Player, availablePlayers } from "@/data/players";
+import "@/public/styles/babyfoot.css";
 
 const players = [
   availablePlayers.maxime,
