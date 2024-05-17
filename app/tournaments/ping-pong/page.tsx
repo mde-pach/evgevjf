@@ -9,6 +9,7 @@ const players = [
   availablePlayers.fares,
   availablePlayers.paul,
   availablePlayers.penelope,
+  availablePlayers.leo,
   availablePlayers.alice,
   availablePlayers.hugo,
   availablePlayers.steve,

@@ -36,6 +36,11 @@ const games: { title: string; href: string; description: string }[] = [
     href: "/games/killer",
     description: "Règles et déroulement du jeu du killer.",
   },
+  {
+    title: "Jeu mystère",
+    href: "/",
+    description: "???",
+  },
 ];
 
 const Navbar = () => {

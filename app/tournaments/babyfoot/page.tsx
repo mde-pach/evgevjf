@@ -9,6 +9,7 @@ const players = [
   availablePlayers.fares,
   availablePlayers.paul,
   availablePlayers.penelope,
+  availablePlayers.leo,
   availablePlayers.alice,
   availablePlayers.hugo,
   availablePlayers.steve,
@@ -31,7 +32,13 @@ const Page: React.FC = () => {
   return (
     <main className="flex min-h-screen flex-col items-center pt-24 p-5 md:p-24">
       <h1 className="text-3xl font-bold mb-5">Tournois de babyfoot</h1>
-      <p></p>
+      <p className="my-5 md:px-48">
+        Le baby-foot est principalement un jeu de café, où on lui adjoint un
+        monnayeur. Si une partie est en cours, les joueurs suivants se font
+        connaître en déposant une pièce servant à payer la prochaine partie et
+        rencontrent les vainqueurs de la partie en cours, on dit généralement
+        qu&apos;ils prennent la gagne.
+      </p>
       <Tournament players={players} results={results} />
       <div className="as-ping-pong">
         <svg

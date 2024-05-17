@@ -54,6 +54,11 @@ export const availablePlayers = {
     description:
       "Léna est un joueur de babyfoot hors pair. Il a une technique de frappe de balle incroyable.",
   },
+  leo: {
+    name: "Léo",
+    description:
+      "Léo est un joueur de babyfoot hors pair. Il a une technique de frappe de balle incroyable.",
+  },
   jq: {
     name: "JQ",
     description:
